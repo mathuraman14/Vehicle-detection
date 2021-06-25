@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Example how it works
 
-[![OpenCV Car detection from video stream](https://drive.google.com/file/d/1ylYoxKKxhAnd7VSviyKFTJ12045-akcM/view?usp=sharing)](https://drive.google.com/file/d/1aUI1k47cUnpk8SxYqNwnUmOMQvIX6chO/view?usp=sharing)
+[![OpenCV Car detection & Counting from video stream](https://img.youtube.com/vi/M_zuUn6oJVg/1.jpg)](https://youtu.be/M_zuUn6oJVg)
 
 ## python code
 
