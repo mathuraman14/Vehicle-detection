@@ -1,4 +1,4 @@
-# openCV-vehicle-detection-project
+# openCV-vehicle-detection-project 🚕
 
 ## How to run the code
 ```bash
