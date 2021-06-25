@@ -9,7 +9,7 @@ min_height_rectangle = 80
 
 count_line_position = 550
 # Initialize Substructor
-algo = cv2.createBackgroundSubtractorMOG2()
+algo = cv2.createBackgroundSubtractorMOG2(history=100, varThreshold=40)
 
 def center_handle(x,y,w,h):
     x1=int(w/2)
