@@ -7,7 +7,7 @@ cd openCV-vehicle-detection
 python main.py
 ```
 
-## install packages
+## Install packages
 
 ```bash
 pip install -r requirements.txt
