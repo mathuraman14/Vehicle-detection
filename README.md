@@ -1,9 +1,9 @@
-# openCV-vehicle-detection-project 🚕
+# openCV-vehicle-detection 🚕
 
 ## How to run the code
 ```bash
-git clone git@github.com:mathuraman14/opencv-vehicle-detection-project.git
-cd openCV-vehicle-detection-project
+git clone git@github.com:mathuraman14/opencv-vehicle-detection.git
+cd openCV-vehicle-detection
 python main.py
 ```
 
