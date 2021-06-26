@@ -1,4 +1,7 @@
 # openCV-vehicle-detection 🚗
+'''
+A vehicle detection application made using OpenCV
+'''
 
 ## How to run the code
 ```bash
