@@ -1,11 +1,11 @@
-# openCV-vehicle-detection 🚗
+# Vehicle-detection 🚗
 
 A vehicle detection application made using OpenCV
 
 ## How to run the code
 ```bash
-git clone git@github.com:mathuraman14/opencv-vehicle-detection.git
-cd openCV-vehicle-detection
+git clone git@github.com:mathuraman14/Vehicle-detection.git
+cd Vehicle-detection
 python main.py
 ```
 
