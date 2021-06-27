@@ -1,6 +1,6 @@
 # Vehicle-detection 🚗
 
-A vehicle detection application made using OpenCV
+A Vehicle Detection application made using OpenCV. In this project I have built an OpenCV application in which a user can detect vehicles in a video or through web camera.
 
 ## How to run the code
 ```bash
